@@ -27,7 +27,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<!--- SWAGGER DOCUMENTACAO -->
+		<!--- SWAGGER DOCUMENTACAO ATUALIZADA -->
 
 		<dependency>
 			<groupId>org.springdoc</groupId>
